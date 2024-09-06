@@ -20,7 +20,7 @@ Join me on a journey into the world of speculative fiction with PromptCraft, whe
 
 ## Objectives
 
-Through Sci-Fi StoryForge, I aim to not only showcase the capabilities of OpenAI's ChatGPT API in text generation but also to craft engaging sci-fi narratives that captivate readers and transport them to worlds beyond imagination. Join me on this thrilling journey as we explore the boundless possibilities of AI-driven storytelling.
+Through PromptCraft, I aim to not only showcase the capabilities of OpenAI's ChatGPT API in text generation but also to craft engaging sci-fi narratives that captivate readers and transport them to worlds beyond imagination. Join me on this thrilling journey as we explore the boundless possibilities of AI-driven storytelling.
 
 Let's go! Run this Notebook and see what comes up 🪄💻
 
